@@ -1,4 +1,4 @@
-import { useRouter } from "next/router"
+
 import style from '../../styles/Users.module.scss'
 export default function User({ user }) {
     // const { query } = useRouter() here we got id from query

@@ -1,5 +1,5 @@
  import A from "./A"
- import Head from "next/link";
+ 
  const MainContainer= ({children}) => {
   return (<>
   {/* <Head>
